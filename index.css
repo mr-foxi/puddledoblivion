@@ -1,0 +1,42 @@
+#headingSection {
+	background-color: rose;
+	border-style: solid;
+	border-width: 3px;
+	border-color: White;
+}
+#musicSection {
+	background-color: #730257;
+	border-style: solid;
+	border-width: 3px;
+	border-color: White;
+}
+#audioPlayer{
+	background-color: #730257;
+}
+#audioLink {
+	margin-bottom: 25px;
+}
+#twitchSection {
+	background-color: #630257;
+	border-style: solid;
+	border-width: 3px;
+	border-color: White;
+}
+#twitchLogo{
+	margin-top: 25px;
+}
+#twitchLink {
+	margin-bottom: 25px;
+}
+#artSection {
+	background-color: #530257;
+	border-style: solid;
+	border-width: 3px;
+	border-color: White;
+}
+#magicFateball{
+	background-color: #430257;
+	border-style: solid;
+	border-width: 3px;
+	border-color: White;
+}

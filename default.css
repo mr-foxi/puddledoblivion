@@ -1,0 +1,10 @@
+body {
+	/* Text */
+	text-align: center;
+	color: white;
+	/* Background */
+	background-color: black;
+}
+.links {
+	color: lime;
+}
